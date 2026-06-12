@@ -71,3 +71,19 @@ Total message overhead, including the prelude and both checksums, is 16 bytes.
 The following diagram shows the components that make up a message and a header. There are multiple headers per message.
 
 ![Encoding Diagram](docs/images/encoding.png)
+
+<!-- PLATFORM_SUPPORT_START -->
+# Platform Support
+
+## Tier 1 — Fully Supported & Tested in CI
+
+| Platform | Architecture |
+|----------|--------------|
+| manylinux2014 | x64, x86 |
+
+## Tier 2 — Supported (Not Tested in CI)
+
+| Platform | Architecture |
+|----------|--------------|
+
+<!-- PLATFORM_SUPPORT_END -->
