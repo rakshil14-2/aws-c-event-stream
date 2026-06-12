@@ -79,6 +79,7 @@ The following diagram shows the components that make up a message and a header. 
 
 | Platform | Architecture |
 |----------|--------------|
+| Fedora-34 | x64 |
 | manylinux2014 | x64, x86 |
 
 ## Tier 2 — Supported (Not Tested in CI)
